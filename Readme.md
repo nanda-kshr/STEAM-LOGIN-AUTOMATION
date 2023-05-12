@@ -5,3 +5,8 @@
   <li>Save your steam accounts combo in the hits.txt text file.</li>
   <li>Install necessary libraries and chill.</li>
   <li>Sit back and enjoy while the screenshots are saved in ss folder</li>
+
+  
+  </ol>
+  
+  <b>This is for educational purposes only</b>
